@@ -1,1 +1,3 @@
-# Ve nuestro [readme](/profile/README.md)! 👀
+# Hola! 👋
+
+Ve nuestro [readme](profile) ahora! 👀
