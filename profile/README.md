@@ -18,7 +18,7 @@ Nuestra organización sirve como un espacio para la experimentación, el interca
 
 ## Cómo Empezar
 
-🚀 Si eres nuevo en Next.js, hemos compilado una lista de recursos para ayudarte a comenzar en nuestro [wiki devs: un centro para desarrolladores hispanohablantes](https://dub.sh/wikidevs), y nuestra [wiki vercel: Edición de programación Next.js](https://dub.sh/wikivercel).
+🚀 Si eres nuevo en Next.js, hemos compilado una lista de recursos para ayudarte a comenzar en nuestra [wiki vercel: edición de programación Next.js](https://dub.sh/wikivercel).
 
 No dudes en explorar nuestro repositorio para obtener una visión más profunda y ejemplos.
 
