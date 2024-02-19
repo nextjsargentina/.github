@@ -32,7 +32,7 @@ No dudes en explorar nuestro repositorio para obtener una visión más profunda 
 
 ## Mantente Conectado
 
-📢 Mantente conectado con nosotros en nuestra [comunidad Next.js Argentina](https://x.com/nextjsargentina) para las últimas actualizaciones y discusiones sobre nuestras aventuras con Next.js y tecnología web.
+📢 Mantente conectado con nosotros en nuestra [comunidad Next.js Argentina](https://x.com/nextjsargentina) en X (anteriormente Twitter), en nuestro [discord de la comunidad](https://dub.sh/dsnextjsarg) para las últimas actualizaciones y discusiones sobre el mejor framework web para React.
 
 ## Enlaces Importantes
 
